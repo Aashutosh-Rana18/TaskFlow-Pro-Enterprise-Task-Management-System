@@ -111,9 +111,8 @@ https://localhost:7154/swagger
 
 ## 🗄️ Database Schema Diagram
 
-<p align="center">
-  <img src="docs/database-diagram.png" alt="Database Schema" width="900"/>
-</p>
+<img width="2002" height="2059" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/22cade40-5a84-4c61-b25f-f1dd3516a5f7" />
+
 
 ---
 
